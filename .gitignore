@@ -1,0 +1,17 @@
+
+/node_modules
+
+
+/build
+/dist
+  
+package.json.bak
+.DS_Store
+
+.vscode
+config.env
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
